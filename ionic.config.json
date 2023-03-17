@@ -1,0 +1,7 @@
+{
+  "name": "Sidemenu-gilang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
